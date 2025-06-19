@@ -21,7 +21,7 @@
 
 
 module.exports = {
-    token: '',
-    guildId: '',
-    mongodbURI: ''
+    token: 'MTM4NTI4MDM0NDMyNzk4MzI1NA.GDL1ho.HkAi6EgfMhhaAMZnJS5DGNEYlph0uZ39Hxi5Mk',
+    guildId: '1380561527626661888',
+    mongodbURI: 'mongodb+srv://yperbu:<db_password>@crayonbot.eluqfu2.mongodb.net/?retryWrites=true&w=majority'
 };
